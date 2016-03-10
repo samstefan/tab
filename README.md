@@ -4,3 +4,4 @@
 - Eclipse | 2 Beers | Being a legend.
 - Snollygolly | n Beers | Starting this all.
 - dlsniper | 1 Beer | Helping out with JSON/structs
+- Jim Hill | 5 Beers | debugging mgo/mongodb errors
