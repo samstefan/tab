@@ -6,3 +6,4 @@
 - dlsniper | 1 Beer | Helping out with JSON/structs
 - Jim Hill | 2 Beers | debugging mgo/mongodb errors
 - Lee Archer | 5 Beers | Debuggings mgo structs + category map magic
+- Max Weston | 1 Beer 
